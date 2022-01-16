@@ -9,12 +9,12 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: var(--primary);
-    color: #ffffff;
+    background-color: var(--primary) !important;
+    color: #ffffff !important;
 }
 
 .heading {
-    background-color: var(--dark);
+    background-color: var(--dark) !important;
     color: #ffffff;
     text-align: center;
     padding: 10px;
@@ -55,5 +55,5 @@ h4 {
 }
 
 .card-body {
-    background-color: var(--dark);
+    background-color: var(--dark) !important;
 }
