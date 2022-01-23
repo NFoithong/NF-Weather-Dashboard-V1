@@ -46,7 +46,7 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 ## Demo
 https://nfoithong.github.io/Weather-Dashboard-V1/
 ## Github Website
-https://github.com/NFoithong/Weather-Dashboard-V1.git
+https://github.com/NFoithong/NF-Weather-Dashboard-V1.git
 
 ## Screenshot
 ![project screenshot](assets/img/weather-dashboard-screenshot-02.png)
